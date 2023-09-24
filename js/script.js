@@ -35,7 +35,13 @@ let myLibraryFunction
    document.write(`<h1>This is ${intNum} solid sentence <\h1>`)
 */
 // STEP 7
-// STEP 3
+  //  let blnOkay = true
+  //  document.write(`it's ${blnOkay} that this is a sentence<br/>`)
+
+// STEP 8
+    //it's not, I would fix it:
+   // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
+   // console.log(someString)
 // STEP 3
 // STEP 3
 // STEP 3
